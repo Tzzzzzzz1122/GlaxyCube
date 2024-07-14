@@ -1,2 +1,0 @@
-# GlaxyCube
-GlaxyCube
